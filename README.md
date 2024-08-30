@@ -1,4 +1,4 @@
-Case Study 4: Social Media Feed with Infinite Scrolling 
+<h1>Case Study 4: Social Media Feed with Infinite Scrolling </h1>
  
  
 <b>1. How would you implement infinite scrolling in a React component?</b><br>
