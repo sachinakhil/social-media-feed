@@ -1,7 +1,7 @@
 Case Study 4: Social Media Feed with Infinite Scrolling 
  
  
-1. How would you implement infinite scrolling in a React component? 
+1. How would you implement infinite scrolling in a React component?<br>
 Infinite scrolling in a React component is implemented by detecting when the user has scrolled close to the bottom of the page or container and then fetching additional content to append to the existing list. In this case study: 
 State Management: We use React's useState to manage the state of posts, the current page number, a loading indicator, and a boolean to track if there are more posts to load. 
 Effect Hook: useEffect is used to fetch posts when the component first mounts and when the page state changes. The page state increments each time the user scrolls near the bottom, triggering another fetch. 
