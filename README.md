@@ -70,6 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 <br> 
+
+ <h2>Questions</h2>
  
 <b>1. How would you implement infinite scrolling in a React component?</b><br>
 Infinite scrolling in a React component is implemented by detecting when the user has scrolled close to the bottom of the page or container and then fetching additional content to append to the existing list. In this case study: 
