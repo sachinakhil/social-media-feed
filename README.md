@@ -1,3 +1,4 @@
+<h1>Case Study 4: Social Media Feed with Infinite Scrolling </h1>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,10 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-<br>
-
-<h1>Case Study 4: Social Media Feed with Infinite Scrolling </h1>
- 
+<br> 
  
 <b>1. How would you implement infinite scrolling in a React component?</b><br>
 Infinite scrolling in a React component is implemented by detecting when the user has scrolled close to the bottom of the page or container and then fetching additional content to append to the existing list. In this case study: 
